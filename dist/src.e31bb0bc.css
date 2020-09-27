@@ -453,6 +453,7 @@ template {
 }
 .simple-screen__paragraph {
   font-size: 2rem;
+  line-height: 3rem;
 }
 .simple-screen__paragraph_standart-indent_48 {
   margin-left: 48px;
