@@ -137,9 +137,11 @@ $main_dark: #333333;
 .team {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .worker-card {
+    flex-basis: 33%;
     &__photo {
         height: 168px;
         display: block;
